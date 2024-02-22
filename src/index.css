@@ -1,0 +1,35 @@
+body {
+  margin: 0;
+}
+.titleBar {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 20px;
+}
+
+p {
+  font-size: larger;
+}
+
+button {
+  font-size: larger;
+  padding: 7px 20px;
+}
+
+.editor {
+  padding: 15px;
+  /* background-color: aqua; */
+  margin: 20px;
+  flex: 2;
+  border: 2px solid gray;
+}
+
+.container {
+  display: flex;
+  flex-direction: column;
+  height: 100vh;
+  padding: 0;
+  margin: 0;
+  
+}

@@ -1,0 +1,11 @@
+.BoldBlock {
+  font-weight: bold;
+}
+
+.RedBlock {
+  color: red
+}
+
+.UnderlineBlock {
+  text-decoration: underline;
+}
